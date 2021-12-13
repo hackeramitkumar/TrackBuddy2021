@@ -26,8 +26,6 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.addTab(tabLayout.newTab().setText("ToDo"));
         tabLayout.addTab(tabLayout.newTab().setText("Notes"));
 
-
-
         final MainAdapter adapter = new MainAdapter(getSupportFragmentManager(),this,tabLayout.getTabCount());
         viewPager.setAdapter(adapter);
         viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
