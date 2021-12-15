@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715276839214",
+    "project_id": "trackbuddydroidrush",
+    "storage_bucket": "trackbuddydroidrush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715276839214:android:565d0bb81b5d50f57972bf",
+        "android_client_info": {
+          "package_name": "com.example.trackbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715276839214-gc8bdor06ktnbi08l3etj8btj2m978hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11Y56UDHf6kOw7GooZb5ADgry6ZB5EUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715276839214-gc8bdor06ktnbi08l3etj8btj2m978hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -40,13 +40,8 @@ public class LoginTabFragment extends Fragment {
         forgetPassword.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(700).start();
         login.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(900).start();
 
-
-
-
         return root;
 
-
     }
-
 
 }
