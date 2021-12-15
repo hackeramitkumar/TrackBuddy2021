@@ -1911,6 +1911,7 @@ int id action_bar_subtitle 0x7f08003a
 int id action_bar_title 0x7f08003b
 int id action_container 0x7f08003c
 int id action_context_bar 0x7f08003d
+int id action_delete 0x7f0801ed
 int id action_divider 0x7f08003e
 int id action_image 0x7f08003f
 int id action_menu_divider 0x7f080040
@@ -1918,10 +1919,12 @@ int id action_menu_presenter 0x7f080041
 int id action_mode_bar 0x7f080042
 int id action_mode_bar_stub 0x7f080043
 int id action_mode_close_button 0x7f080044
+int id action_save 0x7f0801ee
 int id action_text 0x7f080045
 int id actions 0x7f080046
 int id activity_chooser_view_content 0x7f080047
 int id add 0x7f080048
+int id add_button 0x7f0801ef
 int id alertTitle 0x7f080049
 int id aligned 0x7f08004a
 int id all 0x7f08004b
@@ -2097,6 +2100,8 @@ int id line3 0x7f0800f4
 int id linear 0x7f0800f5
 int id listMode 0x7f0800f6
 int id list_item 0x7f0800f7
+int id list_item_description 0x7f0801f0
+int id list_item_heading 0x7f0801f1
 int id login 0x7f0800f8
 int id masked 0x7f0800f9
 int id match_constraint 0x7f0800fa
@@ -2169,6 +2174,7 @@ int id noState 0x7f08013c
 int id none 0x7f08013d
 int id normal 0x7f08013e
 int id north 0x7f08013f
+int id notes_list_view 0x7f0801f2
 int id notification_background 0x7f080140
 int id notification_main_column 0x7f080141
 int id notification_main_column_container 0x7f080142
@@ -2297,6 +2303,8 @@ int id textTop 0x7f0801bc
 int id text_input_end_icon 0x7f0801bd
 int id text_input_error_icon 0x7f0801be
 int id text_input_start_icon 0x7f0801bf
+int id textbox_notes_description 0x7f0801f3
+int id textbox_notes_heading 0x7f0801f4
 int id textinput_counter 0x7f0801c0
 int id textinput_error 0x7f0801c1
 int id textinput_helper_text 0x7f0801c2
@@ -2307,6 +2315,7 @@ int id time 0x7f0801c6
 int id title 0x7f0801c7
 int id titleDividerNoCustom 0x7f0801c8
 int id title_template 0x7f0801c9
+int id to_do_list 0x7f0801f5
 int id toggle 0x7f0801ca
 int id top 0x7f0801cb
 int id topPanel 0x7f0801cc
@@ -2411,6 +2420,8 @@ int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_login 0x7f0b001c
 int layout activity_main 0x7f0b001d
+int layout add_event_notes 0x7f0b0080
+int layout add_event_to_do 0x7f0b0081
 int layout custom_dialog 0x7f0b001e
 int layout design_bottom_navigation_item 0x7f0b001f
 int layout design_bottom_sheet_dialog 0x7f0b0020
@@ -2474,6 +2485,7 @@ int layout mtrl_picker_header_title_text 0x7f0b0059
 int layout mtrl_picker_header_toggle 0x7f0b005a
 int layout mtrl_picker_text_input_date 0x7f0b005b
 int layout mtrl_picker_text_input_date_range 0x7f0b005c
+int layout notes_list_items 0x7f0b0082
 int layout notification_action 0x7f0b005d
 int layout notification_action_tombstone 0x7f0b005e
 int layout notification_media_action 0x7f0b005f
@@ -2511,6 +2523,7 @@ int layout text_view_with_theme_line_height 0x7f0b007e
 int layout text_view_without_line_height 0x7f0b007f
 int menu example_menu 0x7f0c0000
 int menu example_menu2 0x7f0c0001
+int menu menu_notes 0x7f0c0002
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int plurals mtrl_badge_content_description 0x7f0e0000
@@ -2541,6 +2554,8 @@ int string abc_searchview_description_voice 0x7f0f0017
 int string abc_shareactionprovider_share_with 0x7f0f0018
 int string abc_shareactionprovider_share_with_application 0x7f0f0019
 int string abc_toolbar_collapse_description 0x7f0f001a
+int string action_delete 0x7f0f006b
+int string action_save 0x7f0f006c
 int string androidx_startup 0x7f0f001b
 int string app_name 0x7f0f001c
 int string appbar_scrolling_view_behavior 0x7f0f001d

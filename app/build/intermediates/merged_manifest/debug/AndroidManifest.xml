@@ -20,9 +20,14 @@
         android:testOnly="true"
         android:theme="@style/Theme.TrackBuddy" >
         <activity
+            android:name="com.example.trackbuddy.notesAddEventActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.trackbuddy.toDoAddEventActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.trackbuddy.LoginActivity"
-            android:exported="false" >
-        </activity>
+            android:exported="false" />
         <activity
             android:name="com.example.trackbuddy.MainActivity"
             android:exported="true" >

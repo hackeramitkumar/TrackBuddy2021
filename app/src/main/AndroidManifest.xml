@@ -10,10 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrackBuddy">
         <activity
+            android:name=".notesAddEventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".toDoAddEventActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
-            android:exported="false" >
-
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -22,8 +26,14 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+
+        <provider
+            android:name=".data.NotesProvider"
+            android:authorities="com.example.android.notes"
+            android:exported="false" />
+
     </application>
+
 
 </manifest>

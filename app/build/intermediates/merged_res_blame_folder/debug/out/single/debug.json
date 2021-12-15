@@ -4,20 +4,28 @@
         "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/drawable/vie_log.xml"
     },
     {
+        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_notes_list_items.xml.flat",
+        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/layout/notes_list_items.xml"
+    },
+    {
         "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_login_tab_fragment.xml.flat",
         "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/layout/login_tab_fragment.xml"
     },
     {
-        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/menu_menu_notes.xml.flat",
+        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/menu/menu_notes.xml"
     },
     {
         "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_signup_tab_fragment.xml.flat",
@@ -72,6 +80,10 @@
         "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/layout/fragment_notes.xml"
     },
     {
+        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_add_event_to_do.xml.flat",
+        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/layout/add_event_to_do.xml"
+    },
+    {
         "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
@@ -114,6 +126,10 @@
     {
         "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_fragment_to_do.xml.flat",
         "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/layout/fragment_to_do.xml"
+    },
+    {
+        "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_add_event_notes.xml.flat",
+        "source": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/res/layout/add_event_notes.xml"
     },
     {
         "merged": "/Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",

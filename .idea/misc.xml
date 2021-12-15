@@ -5,7 +5,13 @@
       <map>
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.2388888888888889" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/add_event_notes.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/add_event_to_do.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/addevent_to_do.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/layout/fragment_notes.xml" value="0.14447463768115942" />
         <entry key="app/src/main/res/layout/fragment_to_do.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/notes_list_items.xml" value="0.14447463768115942" />
+        <entry key="app/src/main/res/menu/menu_notes.xml" value="0.24635416666666668" />
       </map>
     </option>
   </component>

@@ -1912,6 +1912,7 @@ id action_bar_subtitle
 id action_bar_title
 id action_container
 id action_context_bar
+id action_delete
 id action_divider
 id action_image
 id action_menu_divider
@@ -1919,10 +1920,12 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_save
 id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_button
 id alertTitle
 id aligned
 id all
@@ -2098,6 +2101,8 @@ id line3
 id linear
 id listMode
 id list_item
+id list_item_description
+id list_item_heading
 id login
 id masked
 id match_constraint
@@ -2170,6 +2175,7 @@ id noState
 id none
 id normal
 id north
+id notes_list_view
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -2298,6 +2304,8 @@ id textTop
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id textbox_notes_description
+id textbox_notes_heading
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -2308,6 +2316,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id to_do_list
 id toggle
 id top
 id topPanel
@@ -2412,6 +2421,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout add_event_notes
+layout add_event_to_do
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2475,6 +2486,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout notes_list_items
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -2512,6 +2524,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
+menu menu_notes
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2542,6 +2555,8 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string action_delete
+string action_save
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior

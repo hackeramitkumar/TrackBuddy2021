@@ -1,21 +1,33 @@
+com/example/trackbuddy/LoginAdapter.java
+ com.example.trackbuddy.LoginAdapter
+com/example/trackbuddy/BuildConfig.java
+ com.example.trackbuddy.BuildConfig
 com/example/trackbuddy/toDoFragment.java
  com.example.trackbuddy.toDoFragment
+com/example/trackbuddy/data/NotesContract.java
+ com.example.trackbuddy.data.NotesContract
+ com.example.trackbuddy.data.NotesContract$NoteEntry
 com/example/trackbuddy/MainActivity.java
  com.example.trackbuddy.MainActivity
  com.example.trackbuddy.MainActivity$1
 com/example/trackbuddy/notesFragment.java
  com.example.trackbuddy.notesFragment
+ com.example.trackbuddy.notesFragment$1
 com/example/trackbuddy/calenderFragment.java
  com.example.trackbuddy.calenderFragment
-com/example/trackbuddy/BuildConfig.java
- com.example.trackbuddy.BuildConfig
+com/example/trackbuddy/data/NotesDBHelper.java
+ com.example.trackbuddy.data.NotesDBHelper
+com/example/trackbuddy/toDoAddEventActivity.java
+ com.example.trackbuddy.toDoAddEventActivity
 com/example/trackbuddy/MainAdapter.java
  com.example.trackbuddy.MainAdapter
 com/example/trackbuddy/SignupTabFragment.java
  com.example.trackbuddy.SignupTabFragment
+com/example/trackbuddy/data/NotesCursorAdapter.java
+ com.example.trackbuddy.data.NotesCursorAdapter
 com/example/trackbuddy/LoginActivity.java
  com.example.trackbuddy.LoginActivity
+com/example/trackbuddy/notesAddEventActivity.java
+ com.example.trackbuddy.notesAddEventActivity
 com/example/trackbuddy/LoginTabFragment.java
  com.example.trackbuddy.LoginTabFragment
-com/example/trackbuddy/LoginAdapter.java
- com.example.trackbuddy.LoginAdapter

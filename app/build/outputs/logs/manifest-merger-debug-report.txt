@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/f794c157ce27c216c504b2261e60ef5d/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/apoorvpranjal/.gradle/caches/transforms-3/102de147192b5ae927c001061465296f/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/9079c9694b4d4270d7cd62242948af25/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
@@ -49,25 +49,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/abd986d958258d7e8503cbe4ed7e75cb/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:5:5-27:19
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:5:5-30:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/f794c157ce27c216c504b2261e60ef5d/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/apoorvpranjal/.gradle/caches/transforms-3/f794c157ce27c216c504b2261e60ef5d/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/apoorvpranjal/.gradle/caches/transforms-3/102de147192b5ae927c001061465296f/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
@@ -96,28 +96,40 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/apoorvpranjal/.gradl
 		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:11:9-48
-activity#com.example.trackbuddy.LoginActivity
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:12:9-16:20
+activity#com.example.trackbuddy.notesAddEventActivity
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:12:9-14:40
 	android:exported
 		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:13:13-42
-activity#com.example.trackbuddy.MainActivity
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:17:9-26:20
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:13:13-50
+activity#com.example.trackbuddy.toDoAddEventActivity
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:19:13-36
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:16:13-49
+activity#com.example.trackbuddy.LoginActivity
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:19:13-42
+activity#com.example.trackbuddy.MainActivity
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:22:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml:27:27-74
 uses-sdk
 INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/apoorvpranjal/Avishkar/TrackBuddy2021-main/app/src/main/AndroidManifest.xml
