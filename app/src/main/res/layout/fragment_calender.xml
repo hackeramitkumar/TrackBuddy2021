@@ -6,7 +6,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".calenderFragment">
 
+<<<<<<< HEAD
     <!-- TODO: Update blank fragment layout -->
+=======
+   
+>>>>>>> 25a14f3cb26cc4356bafee9a8e23ba575d87d8c7
 
 
     <CalendarView
@@ -19,4 +23,8 @@
         app:layout_constraintTop_toTopOf="parent" />
 
 
+<<<<<<< HEAD
 </androidx.constraintlayout.widget.ConstraintLayout>
+=======
+</androidx.constraintlayout.widget.ConstraintLayout>
+>>>>>>> 25a14f3cb26cc4356bafee9a8e23ba575d87d8c7
