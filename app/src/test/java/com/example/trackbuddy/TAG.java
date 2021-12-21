@@ -1,4 +1,2 @@
-package com.example.trackbuddy;
-
-public class TAG {
+package com.example.trackbuddy;public class TAG {
 }
